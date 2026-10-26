@@ -21,5 +21,8 @@ porque titulo es como un dato único cada canción tiene su propio nombre mientr
 5. ¿Por qué un método static no puede usar this?
 porque this es para un objeto especifico mientras que static es para una clase en general.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2540c3c2-d0e0-4232-9853-289654b79955" />
 
- 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ff207915-d400-44fe-bb9b-5ba7f2a2c763" />
+
